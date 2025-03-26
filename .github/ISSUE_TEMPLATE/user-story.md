@@ -21,3 +21,4 @@ assignees: ''
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
+ Need ability to update a counter to a new value. 
