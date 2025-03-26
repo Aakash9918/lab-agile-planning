@@ -25,3 +25,4 @@ assignees: ''
 Story Title	Story Points
 Counters can be reset	3
 Need ability to update a counter to new value	5
+Must persist counter across restarts is Done.
