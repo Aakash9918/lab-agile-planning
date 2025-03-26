@@ -22,3 +22,6 @@ assignees: ''
  Then [the outcome of action is observed]
  ```
  Need ability to update a counter to a new value. 
+Story Title	Story Points
+Counters can be reset	3
+Need ability to update a counter to new value	5
